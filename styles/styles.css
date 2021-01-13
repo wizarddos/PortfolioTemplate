@@ -1,0 +1,122 @@
+body{
+    background-color: #140e0e;
+    color: #fff;
+    font-family: 'Ubuntu', sans-serif;
+}
+header{
+    background-color: rgb(10, 131, 230);
+}
+
+.header{
+    width: 100%;
+    height: 25%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+}
+
+.container{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.person-desc{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    width: 70%;
+    text-align: justify;
+}
+
+.person-project{
+    width:50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2%;
+    background-color: #3d3939;
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+    font-size: larger;
+}
+
+.person-skills{
+    width:50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2%;
+    background-color: #fd2e2e;
+    text-align: center;
+}
+
+footer{
+    background-color: rgb(10, 131, 230);
+}
+
+.footer{
+    width: 100%;
+    height: 25%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 5px;
+    text-align: center;
+}
+.socials{
+    display: flex;
+    padding: 5%;
+}
+
+.github{
+    background-color: rgb(24, 26, 31);
+    width: 21%;
+    padding: 2%;
+    margin-right: 2%;
+}
+
+.github:hover{
+    background-color: rgb(15, 20, 30);
+}
+
+.facebook{
+    background-color:rgb(20,110,240);
+    width: 21%;
+    padding: 2%;
+    margin-right: 2%;
+}
+
+.facebook:hover{
+    background-color:rgb(10,100,230);
+}
+
+a{
+    color:#fff;
+    text-decoration: none;
+}
+
+.twitter{
+    background-color: rgb(29,161,242);
+    width: 21%;
+    padding: 2%;
+    margin-right: 2%;
+}
+
+.twitter:hover{
+    background-color: rgb(10,150,240);
+}
+
+.linkedin{
+    background-color: rgb(41,119,201);
+    width: 21%;
+    padding: 2%;
+    margin-right: 2%;
+}
+
+.linkedin:hover{
+    background-color: rgb(35,110,195)
+}
+
+
+
