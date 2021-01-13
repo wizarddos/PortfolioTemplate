@@ -97,14 +97,14 @@ a{
 }
 
 .twitter{
-    background-color: rgb(29,161,242);
+    background-color:  rgb(10,150,240);
     width: 21%;
     padding: 2%;
     margin-right: 2%;
 }
 
 .twitter:hover{
-    background-color: rgb(10,150,240);
+    background-color: rgb(0,140,230);
 }
 
 .linkedin{
